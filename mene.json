@@ -1,1 +1,27 @@
-[{"value":1},{"value":2},{"value":3},{"value":4},{"value":5}]
+[
+    {
+      "img": "/images/menu/deposit.png",
+      "text": "ฝากเงิน",
+      "path": "/app/deposit"
+    },
+    {
+      "img": "/images/menu/withdraw.png",
+      "text": "ถอนเงิน",
+      "path": "/app/withdraw",
+    },
+    {
+      "img": "/images/menu/aff.png",
+      "text": "แนะนำเพื่อน",
+      "path": "/app/invitefriend",
+    },
+    {
+      "img": "/images/menu/gift.png",
+      "text": "โบนัสฟรี",
+      "path": "/app/bonusfree",
+    },
+    {
+      "img": "/images/menu/cashback.png",
+      "text": "CASH BACK",
+      "path": "/app/cashback",
+    }
+  ]
